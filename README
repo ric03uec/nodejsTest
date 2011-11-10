@@ -1,0 +1,8 @@
+Sample project for testing basic node.js functionality
+The code enables user to upload and show a jpeg image.
+
+prerequisites
+ - node
+ - npm
+ - node formidable module
+ - node fs module
